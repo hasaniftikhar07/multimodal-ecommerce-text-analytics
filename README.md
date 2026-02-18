@@ -1,5 +1,15 @@
 # Multi-Modal eCommerce Text Analytics Framework
 
+## 📄 Associated Research Paper
+
+**Title:** A Multi-Modal NLP Framework for eCommerce Customer Review Analysis: Integrating Emotion Detection, Sentiment Analysis, and Topic Modeling
+arXiv preprint: Pending endorsement (to be updated upon publication)
+
+
+PDF available in this repository.
+
+If you use this code, please cite the associated paper.
+
 This repository contains the implementation and experiments for a multi-modal NLP framework for analyzing eCommerce customer reviews.
 
 The framework integrates:
@@ -20,6 +30,12 @@ Modalities integrated:
 - Sentiment polarity scoring
 - Topic extraction
 - Cross-modal consistency analysis
+
+## 📚 Citation
+
+Hasan, I. (2026) *A Multi-Modal NLP Framework for eCommerce Customer Review Analysis: Integrating Emotion Detection, Sentiment Analysis, and Topic Modeling*. arXiv preprint.
+
+
 
 ## How to Run
 
